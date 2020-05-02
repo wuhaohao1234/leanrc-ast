@@ -1,0 +1,26 @@
+{
+  "name": "leanrc-ast",
+  "version": "1.0.0",
+  "description": "学习ast抽象语法树",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuhaohao1234/leanrc-ast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuhaohao1234/leanrc-ast/issues"
+  },
+  "homepage": "https://github.com/wuhaohao1234/leanrc-ast#readme",
+  "devDependencies": {
+    "@babel/generator": "^7.9.6",
+    "@babel/parser": "^7.9.6",
+    "@babel/traverse": "^7.9.6",
+    "@babel/types": "^7.9.6"
+  }
+}

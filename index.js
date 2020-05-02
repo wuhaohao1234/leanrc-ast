@@ -1,6 +1,3 @@
-# leanrc-ast
-学习ast抽象语法树
-```
 const generator = require("@babel/generator")
 const parser = require("@babel/parser")
 const traverse = require("@babel/traverse")
@@ -34,4 +31,3 @@ function foo() {
 const result = compile(code)
 
 console.log(result.code)
-```
